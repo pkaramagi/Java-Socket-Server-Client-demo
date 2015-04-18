@@ -1,0 +1,5 @@
+kampala	89	73	Lubega	
+mbarara	100	62	Kamugisha	
+mpigi	20	3	semakula	
+kabarole	93	92	karamagi	
+kiboga	32	19	Ziwa	
